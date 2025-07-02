@@ -1,3 +1,4 @@
+import /init.recovery.usb.rc
 #add for board init.rc for recovery mode
 on post-fs
 
